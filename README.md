@@ -15,7 +15,7 @@ missing (in which 29 observations were missing only an IV value and 27 observati
 missing only a DV value), resulting in a complete data set of 435 observations. An estimated
 linear model using the complete data was then made using the lm() function and the summary()
 function was used to analyze the linear model. I found the least-squares slope and intercept
-estimates and the coefficient of determination, r<sup>2</sup> using the summary() function. The kable() function along with the anova() function was also used to get a ANOVA table for the linear model. The confint() function at level .99 was used to find the range of likely values for the trueslope and true-intercept of the model.
+estimates and the coefficient of determination, r<sup>2</sup> using the summary() function. The kable() function along with the anova() function was also used to get a ANOVA table for the linear model. The confint() function at level .99 was used to find the range of likely values for the true slope and true intercept of the model.
 
 ### Results For Part A
 Results: The coefficient of determination, r<sup>2</sup> is .5195. The estimated linear regression model was found to be ŷ = 47.5572 + 7.7389x. The ANOVA table associated with this model is shown in the appendix. The F-value associated with Regression(x) is 468.1992 with df1 = 1 and df2 = 433, (extremely large!), with p-value = 0, (extremely small!), so clearly reject the null hypothesis that the slope of the model is zero. The 99% C.I. for true intercept is (33.396625, 61.717823) and the 99% C.I. for true slope is (6.813604, 8.664285).
