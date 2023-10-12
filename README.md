@@ -23,8 +23,6 @@ I rejected that the slope of the model is zero, so x has some value in predictin
 ### R Code Appendix For Part A
 You can find the code I used along with tables, plots, and other graphics here: [https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project%201%20Part%20A.pdf](https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Code%20for%20Part%20A.pdf) 
 
-**Please refresh page if not loading.**
-
 ## Part B
 
 ### Part B Objective
@@ -53,4 +51,3 @@ We rejected that the slope of the model is zero, so x has some value in predicti
 ### R Code Appendix For Part B
 You can find the code I used along with tables, plots, and other graphics here: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Code%20for%20Part%20B.pdf
 
-**Please refresh page if not loading.**
