@@ -21,7 +21,8 @@ The coefficient of determination, r<sup>2</sup> is .4989. The estimated linear r
 I rejected that the slope of the model is zero, so x has some value in predicting y. The coefficient of determination, r<sup>2</sup>, of the model was .4989 so 49.89% of the variation of y can be explained by the changes in x indicating a rather strong positive association between x and y and the scatterplot of the data supports this. The other 50.11% of the variation of the dependent variable is presumedly due to random variability or unidentified variables. The estimated linear regression model was ŷ = 51.274 +  7.534x. The residual plot of the data seems to support linearity and no significant lack of fit for the model. I conclude that the model, ŷ = 51.274 +  7.534x accurately describes the relationship between x and y. This is because the residuals of the data seem to show general random scatter with no clear pattern indicating linearity and no significant lack of fit. So based off the residual plot, I have to say that there is good support for ŷ = 51.274 +  7.534x being an accurate model for the relationship between x and y.
 
 ### R Code Appendix For Part A
-You can find the code I used along with tables, plots, and other graphics here: [https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project%201%20Part%20A.pdf](https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Code%20for%20Part%20A.pdf)
+You can find the code I used along with tables, plots, and other graphics here: [https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project%201%20Part%20A.pdf](https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Code%20for%20Part%20A.pdf) 
+**Please refresh page if not loading**
 
 ## Part B
 
@@ -50,3 +51,4 @@ We rejected that the slope of the model is zero, so x has some value in predicti
 
 ### R Code Appendix For Part B
 You can find the code I used along with tables, plots, and other graphics here: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Code%20for%20Part%20B.pdf
+**Please refresh page if not loading**
