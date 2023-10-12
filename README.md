@@ -1,4 +1,4 @@
-# Simple Linear Regression Project (Broken into 2 parts A and B, both with different objectives)
+# Simple Linear Regression Project (Broken into 2 parts, A and B, both with different objectives)
 
 ## Part A
 
