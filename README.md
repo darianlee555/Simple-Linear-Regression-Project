@@ -13,6 +13,7 @@ Using R, I merged the two data sets of IV and DV values together using R’s mer
 
 ### Results For Part A
 **ALL CODE USED TO OBTAIN THESE RESULTS CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
+
 **RESULTS MAY SLIGHTLY VARY DUE TO USAGE OF THE BOOTSTRAP METHOD, BUT CONCLUSIONS SHOULD STILL BE THE SAME**
 
 The coefficient of determination, r<sup>2</sup> is .5195. The estimated linear regression model was found to be ŷ = 47.5572 + 7.7389x. The ANOVA table associated with this model is shown in the appendix. The F-value associated with Regression(x) is 468.1992 with df<sub>1</sub> = 1 and df<sub>2</sub> = 433, (extremely large!), with p-value = 0, (extremely small!), so clearly reject the null hypothesis that the slope of the model is zero. The 99% CI for true intercept is (33.396625, 61.717823) and the 99% CI for true slope is (6.813604, 8.664285).
