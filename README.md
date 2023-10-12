@@ -42,6 +42,7 @@ of many different transformations of the data, I did not believe that a transfor
 
 ### Results For Part B
 **ALL CODE USED TO OBTAIN THESE RESULTS CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
+
 The coefficient of determination r<sup>2</sup> is .5661. The F-value associated with Regression(x) is 833.7511 with df<sub>1</sub> = 1, df<sub>2</sub> = 655 with p-value = 0, so clearly reject that the slope of the model is 0. The estimated regression equation was found to be ŷ = 6.433531 + 0.201973x. The 99% C.I. for true slope is (0.1841255, 0.2198201) and the 99% C.I. for true intercept is (6.3765603, 6.4905017). The F-value associated with lack of fit was 0.6441. The ANOVA table associated with this model is in the code appendix.
 
 ### Conclusions and Discussion For Part B
