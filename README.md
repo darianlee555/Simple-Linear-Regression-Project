@@ -22,3 +22,5 @@ I rejected that the slope of the model is zero, so x has some value in predictin
 
 ### R Code Appendix For Part A
 You can find the code I used along with tables, plots, and other graphics here: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project%201%20Part%20A.pdf
+
+## Part A
