@@ -12,7 +12,7 @@ The objective of Part A was to analyze two data sets, one with Independent Varia
 
 ### Part A Data Sources
 
-Project 1 Part A IV Values: 
+Project 1 Part A IV Values: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project1_IV_Values.csv
 
 Project 1 Part A DV Values: 
 
