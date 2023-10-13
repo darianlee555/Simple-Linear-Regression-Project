@@ -41,7 +41,7 @@ The objective of Part B was to analyze one data set with 657 observations of IV 
 
 ### Part B Data Source
 
-**Part B Dataset**:
+**Part B Dataset**: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project1_PartB.csv
 
 ### Methods For Part B
 **ALL CODE USED CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
