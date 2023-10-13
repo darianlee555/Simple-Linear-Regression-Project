@@ -10,7 +10,7 @@ As part of my coursework at Stony Brook University, I was required to perform da
 
 The objective of Part A was to analyze two data sets, one with Independent Variable (IV) values and one with Dependent Variable (DV) values (both with 438 observations sorted by ID) and make a simple linear regression model based off these data sets and analyze the model. I had to merge the two data sets (pairing IV and DV values together by their associated ID) and had to check and account for any missing IV or DV values and then make an estimated linear regression model. I had to test if x has any value in predicting y and then make a confidence interval (CI) for the true slope and true intercept of the model. The background/purpose of this project is to be able to merge data sets, account for missing data, make an estimated simple linear regression model once the missing data is accounted for, and then analyze said model’s accuracy.
 
-### Part A Data Source
+### Part A Data Sources
 
 Project 1 Part A IV Values: 
 
