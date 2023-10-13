@@ -13,6 +13,7 @@ The objective of Part A was to analyze two data sets, one with Independent Varia
 ### Part A Data Source
 
 Project 1 Part A IV Values: 
+
 Project 1 Part A DV Values: 
 
 ### Methods For Part A
