@@ -12,9 +12,9 @@ The objective of Part A was to analyze two data sets, one with Independent Varia
 
 ### Part A Data Sources
 
-Project 1 Part A IV Values: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project1_IV_Values.csv
+**Project 1 Part A IV Values**: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project1_IV_Values.csv
 
-Project 1 Part A DV Values: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project1_DV_Values.csv
+**Project 1 Part A DV Values**: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Project1_DV_Values.csv
 
 ### Methods For Part A
 **ALL CODE USED CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
@@ -38,6 +38,10 @@ You can find the code I used along with tables, plots, and other graphics here: 
 ### Part B Objective
 
 The objective of Part B was to analyze one data set with 657 observations of IV and DV values sorted by ID and make a simple linear regression model based off this data. I had to analyze whether a transformation of the data was needed to achieve linearity for such a regression model. After seeing if a transformation was needed, I made the appropriate linear regression model and analyzed if the model fits the data using a lack of fit test. I also had to see if x had any value in predicting y and then had to make a confidence interval for the true slope and true intercept of the model. The background/purpose of this assignment was to analyze if different transformations of data were needed to achieve linearity for a regression model, then analyze said model’s accuracy through a lack of fit test.
+
+### Part B Data Source
+
+**Part B Dataset**:
 
 ### Methods For Part B
 **ALL CODE USED CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
