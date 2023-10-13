@@ -2,7 +2,7 @@
 
 ## Context
 
-As part of my coursework at Stony Brook University, I was required to perform data analysis involving simple linear regression models. Here is one such project that demonstrates me making a simple linear regression model based on data sets and analyzing the model. This project is broken into two parts (A and B), both with different objectives. Please take a look below!
+As part of my coursework at Stony Brook University, I was required to perform data analysis involving simple linear regression models. Here is one such project that demonstrates me making a simple linear regression models based on data sets and analyzing the models. This project is broken into two parts (A and B), both with different objectives. Please take a look below!
 
 ## Part A
 
